@@ -1,6 +1,6 @@
 {
   "birthday": {
-    "enabled": true,
+    "enabled": false,
     "priority": 100,
     "url": "https://raw.githubusercontent.com/hsng12/sample/refs/heads/main/assets/birthday_v2_19ff5261f3.json"
   },
