@@ -1,6 +1,7 @@
 {
   "birthday": {
     "enabled": true,
+    "priority": 100,
     "url": "https://raw.githubusercontent.com/SevarJ/TestRepo/main/3f0bb824-117d-11ee-b120-9b95c3abdf64.json"
   },
   "items": [
@@ -36,61 +37,61 @@
       "startDate": "2026-10-27T00:00:00+04:00",
       "endDate": "2026-10-30T21:00:00+04:00"
     },
-  {
-    "id": "mourning_20_jan_2027",
-    "enabled": true,
-    "priority": 1000,
-    "startDate": "2027-01-20T00:00:00+04:00",
-    "endDate": "2027-01-20T23:59:59+04:00"
-  },
-  {
-    "id": "mourning_26_feb_2027",
-    "enabled": true,
-    "priority": 1000,
-    "startDate": "2027-02-26T00:00:00+04:00",
-    "endDate": "2027-02-26T23:59:59+04:00"
-  },
-  {
-    "id": "mourning_31_mar_2027",
-    "enabled": true,
-    "priority": 1000,
-    "startDate": "2027-03-31T00:00:00+04:00",
-    "endDate": "2027-03-31T23:59:59+04:00"
-  },
-  {
-    "id": "mourning_27_sep_2027",
-    "enabled": true,
-    "priority": 1000,
-    "startDate": "2027-09-27T00:00:00+04:00",
-    "endDate": "2027-09-27T23:59:59+04:00"
-  },
-  {
-    "id": "mourning_20_jan_2028",
-    "enabled": true,
-    "priority": 1000,
-    "startDate": "2028-01-20T00:00:00+04:00",
-    "endDate": "2028-01-20T23:59:59+04:00"
-  },
-  {
-    "id": "mourning_26_feb_2028",
-    "enabled": true,
-    "priority": 1000,
-    "startDate": "2028-02-26T00:00:00+04:00",
-    "endDate": "2028-02-26T23:59:59+04:00"
-  },
-  {
-    "id": "mourning_31_mar_2028",
-    "enabled": true,
-    "priority": 1000,
-    "startDate": "2028-03-31T00:00:00+04:00",
-    "endDate": "2028-03-31T23:59:59+04:00"
-  },
-  {
-    "id": "mourning_27_sep_2028",
-    "enabled": true,
-    "priority": 1000,
-    "startDate": "2028-09-27T00:00:00+04:00",
-    "endDate": "2028-09-27T23:59:59+04:00"
-  }
+    {
+      "id": "mourning_20_jan_2027",
+      "enabled": true,
+      "priority": 1000,
+      "startDate": "2027-01-20T00:00:00+04:00",
+      "endDate": "2027-01-20T23:59:59+04:00"
+    },
+    {
+      "id": "mourning_26_feb_2027",
+      "enabled": true,
+      "priority": 1000,
+      "startDate": "2027-02-26T00:00:00+04:00",
+      "endDate": "2027-02-26T23:59:59+04:00"
+    },
+    {
+      "id": "mourning_31_mar_2027",
+      "enabled": true,
+      "priority": 1000,
+      "startDate": "2027-03-31T00:00:00+04:00",
+      "endDate": "2027-03-31T23:59:59+04:00"
+    },
+    {
+      "id": "mourning_27_sep_2027",
+      "enabled": true,
+      "priority": 1000,
+      "startDate": "2027-09-27T00:00:00+04:00",
+      "endDate": "2027-09-27T23:59:59+04:00"
+    },
+    {
+      "id": "mourning_20_jan_2028",
+      "enabled": true,
+      "priority": 1000,
+      "startDate": "2028-01-20T00:00:00+04:00",
+      "endDate": "2028-01-20T23:59:59+04:00"
+    },
+    {
+      "id": "mourning_26_feb_2028",
+      "enabled": true,
+      "priority": 1000,
+      "startDate": "2028-02-26T00:00:00+04:00",
+      "endDate": "2028-02-26T23:59:59+04:00"
+    },
+    {
+      "id": "mourning_31_mar_2028",
+      "enabled": true,
+      "priority": 1000,
+      "startDate": "2028-03-31T00:00:00+04:00",
+      "endDate": "2028-03-31T23:59:59+04:00"
+    },
+    {
+      "id": "mourning_27_sep_2028",
+      "enabled": true,
+      "priority": 1000,
+      "startDate": "2028-09-27T00:00:00+04:00",
+      "endDate": "2028-09-27T23:59:59+04:00"
+    }
   ]
 }
